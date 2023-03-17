@@ -1,0 +1,250 @@
+RANK,NAME,BIRTH_YEAR,MIDLIFE_YEAR,DEATH_YEAR,NATIONALITY,IMPORTANCE,PERIOD,WEIGHT,NUMBER_COMPOSITIONS,ID,ALPHABETICAL_RANK,SHORT_NAME_ACCENTS,Period Name,Period_Agg_Name,Period_Agg,PERIOD_0_1,PERIOD_AGG_0_1,PERIOD_AGG_Colour,NAME_no_white_space,Single_NATIONALITY,Agg_Nationality,Agg_Nationality_Colour,Unique_Style,Unique_Style_colour,Sex_Race
+91, Delius,1862,1898,1934,British,3,9,2.207186429,9,207,129,Delius,Late_Romantic,Romantic,4,0.9,0.8,c,Delius,British,British,hotpink,Late Romantic,deepskyblue,deepskyblue
+14, Debussy,1862,1890,1918,French,3,9,3.96850263,22,205,127,Debussy,Late_Romantic,Romantic,4,0.9,0.8,c,Debussy,French,French,b,Impressionist,blue,deepskyblue
+399, Pierne,1863,1900,1937,French,0,9,1.356079682,3,433,377,Pierné,Late_Romantic,Romantic,4,0.9,0.8,c,Pierne,French,French,b,Late Romantic,deepskyblue,deepskyblue
+90, Mascagni,1863,1904,1945,Italian,3,9,2.21515468,2,374,313,Mascagni,Late_Romantic,Romantic,4,0.9,0.8,c,Mascagni,Italian,Italian,m,Late Romantic,deepskyblue,deepskyblue
+400, Gretchaninov,1864,1910,1956,Russian-French-American,0,9,1.354954304,0,270,198,Gretchaninov,Late_Romantic,Romantic,4,0.9,0.8,c,Gretchaninov,Russian,Russian,c,Late Romantic,deepskyblue,deepskyblue
+18," Strauss, R",1864,1907,1949,German,4,9,3.684031499,20,523,472,"Strauss, R",Late_Romantic,Romantic,4,0.9,0.8,c,"Strauss, R",German,German,yellowgreen,Late Romantic,deepskyblue,deepskyblue
+197, Dukas,1865,1900,1935,French,1,9,1.712835444,5,216,138,Dukas,Late_Romantic,Romantic,4,0.9,0.8,c,Dukas,French,French,b,Late Romantic,deepskyblue,deepskyblue
+36, Sibelius,1865,1911,1957,Finnish,4,9,2.974441746,16,504,455,Sibelius,Late_Romantic,Romantic,4,0.9,0.8,c,Sibelius,Finnish,North_European,deepskyblue,Late Romantic,deepskyblue,deepskyblue
+84, Nielsen,1865,1898,1931,Danish,3,9,2.265516257,12,404,346,Nielsen,Late_Romantic,Romantic,4,0.9,0.8,c,Nielsen,Danish,North_European,deepskyblue,Late Romantic,deepskyblue,deepskyblue
+121, Glazunov,1865,1901,1936,Russian,4,9,2.010781879,6,258,185,Glazunov,Late_Romantic,Romantic,4,0.9,0.8,c,Glazunov,Russian,Russian,c,Late Romantic,deepskyblue,deepskyblue
+231, Cilea,1866,1908,1950,Italian,0,9,1.62510475,2,182,102,Cilea,Late_Romantic,Romantic,4,0.9,0.8,c,Cilea,Italian,Italian,m,Late Romantic,deepskyblue,deepskyblue
+70, Satie,1866,1896,1925,French,3,9,2.403749284,6,477,426,Satie,Late_Romantic,Romantic,4,0.9,0.8,c,Satie,French,French,b,Neoclassical,forestgreen,deepskyblue
+101, Busoni,1866,1895,1924,Italian-German,4,9,2.133311421,4,155,74,Busoni,Late_Romantic,Romantic,4,0.9,0.8,c,Busoni,Italian,Italian,m,Late Romantic,deepskyblue,deepskyblue
+265, Koechlin,1867,1909,1950,French,0,9,1.552969452,0,325,258,Koechlin,Late_Romantic,Romantic,4,0.9,0.8,c,Koechlin,French,French,b,Impressionist,blue,deepskyblue
+109, Granados,1867,1892,1916,Spanish,2,9,2.080777647,4,269,196,Granados,Late_Romantic,Romantic,4,0.9,0.8,c,Granados,Spanish,Spanish,y,Late Romantic,deepskyblue,deepskyblue
+112, Joplin,1867,1892,1917,American,2,9,2.06236272,4,318,250,Joplin,Late_Romantic,Romantic,4,0.9,0.8,c,Joplin,American,American,r,Light Classical,lightblue,gold
+161, Giordano,1867,1908,1948,Italian,1,9,1.830644992,2,255,182,Giordano,Late_Romantic,Romantic,4,0.9,0.8,c,Giordano,Italian,Italian,m,Late Romantic,deepskyblue,deepskyblue
+168, Beach,1867,1906,1944,American,3,9,1.805165506,1,114,31,Beach,Late_Romantic,Romantic,4,0.9,0.8,c,Beach,American,American,r,Late Romantic,deepskyblue,fuchsia
+272, Pfitzner,1869,1909,1949,German,0,9,1.539630405,3,428,373,Pfitzner,Late_Romantic,Romantic,4,0.9,0.8,c,Pfitzner,German,German,yellowgreen,Late Romantic,deepskyblue,deepskyblue
+189, Roussel,1869,1903,1937,French,3,9,1.736423058,7,466,413,Roussel,Late_Romantic,Romantic,4,0.9,0.8,c,Roussel,French,French,b,Impressionist,blue,deepskyblue
+104, Lehar,1870,1909,1948,Hungarian-Austrian,4,10,2.112992935,2,348,285,Lehár,Modern,Modern,5,1,1,m,Lehar,Hungarian,Central_European,darkorange,Light Classical,lightblue,deepskyblue
+394, Novak,1870,1910,1949,Bohemian,0,10,1.361763234,0,407,349,Novák,Modern,Modern,5,1,1,m,Novak,Bohemian,Central_European,darkorange,Late Romantic,deepskyblue,deepskyblue
+416, Schmitt,1870,1914,1958,French,0,10,1.337440816,0,486,436,Schmitt,Modern,Modern,5,1,1,m,Schmitt,French,French,b,Impressionist,blue,deepskyblue
+441, Tournemire,1870,1905,1939,French,0,10,1.311793349,1,552,505,Tournemire,Modern,Modern,5,1,1,m,Tournemire,French,French,b,Late Romantic,deepskyblue,deepskyblue
+242, Vierne,1870,1904,1937,French,0,10,1.600307318,4,560,514,Vierne,Modern,Modern,5,1,1,m,Vierne,French,French,b,Late Romantic,deepskyblue,deepskyblue
+410, Stenhammar,1871,1899,1927,Swedish,0,10,1.343901983,2,516,468,Stenhammar,Modern,Modern,5,1,1,m,Stenhammar,Swedish,North_European,deepskyblue,Late Romantic,deepskyblue,deepskyblue
+205, Zemlinsky,1871,1907,1942,Austrian,2,10,1.690479408,3,584,544,Zemlinsky,Modern,Modern,5,1,1,m,Zemlinsky,Austrian,Austrian,g,Late Romantic,deepskyblue,deepskyblue
+39, Vaughan Williams,1872,1915,1958,British,4,10,2.900049302,19,557,511,Vaughan Williams,Modern,Modern,5,1,1,m,Vaughan Williams,British,British,hotpink,Nationalist,gray,deepskyblue
+384, Alfven,1872,1916,1960,Swedish,0,10,1.373422734,1,86,7,Alfvén,Modern,Modern,5,1,1,m,Alfven,Swedish,North_European,deepskyblue,Late Romantic,deepskyblue,deepskyblue
+60, Scriabin,1872,1894,1915,Russian,3,10,2.526597741,7,497,447,Scriabin,Modern,Modern,5,1,1,m,Scriabin,Russian,Russian,c,Late Romantic,deepskyblue,deepskyblue
+334, Jongen,1873,1913,1953,Belgian,0,10,1.438423957,2,317,249,Jongen,Modern,Modern,5,1,1,m,Jongen,Belgian,Other_Nationality,teal,Neoromantic,springgreen,deepskyblue
+24, Rachmaninov,1873,1908,1943,Russian-American,3,10,3.375531906,14,445,390,Rachmaninov,Modern,Modern,5,1,1,m,Rachmaninov,Russian,Russian,c,Late Romantic,deepskyblue,deepskyblue
+82, Reger,1873,1895,1916,German,4,10,2.283355702,6,450,395,Reger,Modern,Modern,5,1,1,m,Reger,German,German,yellowgreen,Late Romantic,deepskyblue,deepskyblue
+267, Suk,1874,1905,1935,Bohemian,0,10,1.549111127,3,525,477,Suk,Modern,Modern,5,1,1,m,Suk,Bohemian,Central_European,darkorange,Late Romantic,deepskyblue,deepskyblue
+238, Hahn,1874,1911,1947,Venezuelan-French,0,10,1.609148974,2,279,207,Hahn,Modern,Modern,5,1,1,m,Hahn,French,French,b,Late Romantic,deepskyblue,deepskyblue
+34, Schoenberg,1874,1913,1951,Austrian-American,3,10,3.028534321,18,488,438,Schoenberg,Modern,Modern,5,1,1,m,Schoenberg,Austrian,Austrian,g,Expressionist,magenta,deepskyblue
+43, Ives,1874,1914,1954,American,4,10,2.811442218,10,312,241,Ives,Modern,Modern,5,1,1,m,Ives,American,American,r,Nationalist,gray,deepskyblue
+88, Holst,1874,1904,1934,British,3,10,2.231443167,6,300,228,Holst,Modern,Modern,5,1,1,m,Holst,British,British,hotpink,Nationalist,gray,deepskyblue
+388, Coleridge-Taylor,1875,1894,1912,British,0,10,1.368711126,1,188,108,Coleridge-Taylor,Modern,Modern,5,1,1,m,Coleridge-Taylor,British,British,hotpink,Late Romantic,deepskyblue,gold
+141, Kreisler,1875,1919,1962,Austrian-American,1,10,1.912293964,5,330,263,Kreisler,Modern,Modern,5,1,1,m,Kreisler,Austrian,Austrian,g,Light Classical,lightblue,deepskyblue
+250, Gliere,1875,1916,1956,Russian,0,10,1.583190419,5,259,186,Glière,Modern,Modern,5,1,1,m,Gliere,Russian,Russian,c,Late Romantic,deepskyblue,deepskyblue
+20, Ravel,1875,1906,1937,French,2,10,3.568829278,26,449,394,Ravel,Modern,Modern,5,1,1,m,Ravel,French,French,b,Impressionist,blue,deepskyblue
+66, Falla,1876,1911,1946,Spanish,3,10,2.449986525,7,227,151,Falla,Modern,Modern,5,1,1,m,Falla,Spanish,Spanish,y,Impressionist,blue,deepskyblue
+462, Carpenter,1876,1914,1951,American,0,10,1.291697066,2,167,85,Carpenter,Modern,Modern,5,1,1,m,Carpenter,American,American,r,Impressionist,blue,deepskyblue
+486, Ruggles,1876,1924,1971,American,0,10,1.27016476,1,469,417,Ruggles,Modern,Modern,5,1,1,m,Ruggles,American,American,r,Experimentalist,sandybrown,deepskyblue
+415, Wolf-Ferrari,1876,1912,1948,Italian,0,10,1.33850906,0,578,538,Wolf-Ferrari,Modern,Modern,5,1,1,m,Wolf-Ferrari,Italian,Italian,m,Late Romantic,deepskyblue,deepskyblue
+190, Dohnanyi,1877,1919,1960,Hungarian,3,10,1.733403186,2,211,133,Dohnányi,Modern,Modern,5,1,1,m,Dohnanyi,Hungarian,Central_European,darkorange,Late Romantic,deepskyblue,deepskyblue
+261, Karg-Elert,1877,1905,1933,German,0,10,1.560802974,1,322,254,Karg-Elert,Modern,Modern,5,1,1,m,Karg-Elert,German,German,yellowgreen,Impressionist,blue,deepskyblue
+356, Schreker,1878,1906,1934,Austrian,0,10,1.408333979,1,489,439,Schreker,Modern,Modern,5,1,1,m,Schreker,Austrian,Austrian,g,Late Romantic,deepskyblue,deepskyblue
+256, Ireland,1879,1921,1962,British,0,10,1.570821239,3,310,239,Ireland,Modern,Modern,5,1,1,m,Ireland,British,British,hotpink,Late Romantic,deepskyblue,deepskyblue
+220, Bridge,1879,1910,1941,British,3,10,1.651514313,4,148,65,Bridge,Modern,Modern,5,1,1,m,Bridge,British,British,hotpink,Late Romantic,deepskyblue,deepskyblue
+114, Respighi,1879,1908,1936,Italian,3,10,2.050441282,8,454,399,Respighi,Modern,Modern,5,1,1,m,Respighi,Italian,Italian,m,Late Romantic,deepskyblue,deepskyblue
+352, Canteloube,1879,1918,1957,French,0,10,1.413618584,1,165,83,Canteloube,Modern,Modern,5,1,1,m,Canteloube,French,French,b,Nationalist,gray,deepskyblue
+115, Bloch,1880,1920,1959,Swiss-American,2,10,2.044582846,9,132,49,Bloch,Modern,Modern,5,1,1,m,Bloch,American,American,r,Neoclassical,forestgreen,deepskyblue
+464, Pizzetti,1880,1924,1968,Italian,0,10,1.289846495,1,436,380,Pizzetti,Modern,Modern,5,1,1,m,Pizzetti,Italian,Italian,m,Neoromantic,springgreen,deepskyblue
+246, Medtner,1880,1916,1951,Russian,0,10,1.591656839,2,377,317,Medtner,Modern,Modern,5,1,1,m,Medtner,Russian,Russian,c,Late Romantic,deepskyblue,deepskyblue
+25, Bartok,1881,1913,1945,Hungarian,4,10,3.333333333,25,112,29,Bartók,Modern,Modern,5,1,1,m,Bartok,Hungarian,Central_European,darkorange,Neoclassical,forestgreen,deepskyblue
+157, Enescu,1881,1918,1955,Romanian-French,2,10,1.84586935,3,226,150,Enescu,Modern,Modern,5,1,1,m,Enescu,French,French,b,Late Romantic,deepskyblue,deepskyblue
+385, Miaskovsky,1881,1916,1950,Russian,0,10,1.372238748,2,385,326,Miaskovsky,Modern,Modern,5,1,1,m,Miaskovsky,Russian,Russian,c,Late Romantic,deepskyblue,deepskyblue
+204, Ponce,1882,1915,1948,Mexican,3,10,1.693210397,3,437,381,Ponce,Modern,Modern,5,1,1,m,Ponce,Mexican,South_American,gold,Nationalist,gray,green
+92, Grainger,1882,1922,1961,Australian-American,4,10,2.199331606,4,268,195,Grainger,Modern,Modern,5,1,1,m,Grainger,American,American,r,Nationalist,gray,deepskyblue
+130, Szymanowski,1882,1910,1937,Polish,3,10,1.96400244,8,531,483,Szymanowski,Modern,Modern,5,1,1,m,Szymanowski,Polish,Central_European,darkorange,Impressionist,blue,deepskyblue
+74, Kodaly,1882,1925,1967,Hungarian,3,10,2.360815979,11,324,257,Kodály,Modern,Modern,5,1,1,m,Kodaly,Hungarian,Central_European,darkorange,Nationalist,gray,deepskyblue
+16, Stravinsky,1882,1927,1971,Russian-French-American,4,10,3.815714142,26,524,476,Stravinsky,Modern,Modern,5,1,1,m,Stravinsky,Russian,Russian,c,Neoclassical,forestgreen,deepskyblue
+158, Turina,1882,1916,1949,Spanish,3,10,1.842015749,4,555,508,Turina,Modern,Modern,5,1,1,m,Turina,Spanish,Spanish,y,Nationalist,gray,deepskyblue
+291, Malipiero,1882,1928,1973,Italian,0,10,1.505604116,0,367,306,Malipiero,Modern,Modern,5,1,1,m,Malipiero,Italian,Italian,m,Impressionist,blue,deepskyblue
+127, Varese,1883,1924,1965,French-American,1,10,1.979110744,5,556,510,Varèse,Modern,Modern,5,1,1,m,Varese,American,American,r,Experimentalist,sandybrown,deepskyblue
+365, Casella,1883,1915,1947,Italian,0,10,1.396726303,1,170,88,Casella,Modern,Modern,5,1,1,m,Casella,Italian,Italian,m,Impressionist,blue,deepskyblue
+75, Webern,1883,1914,1945,Austrian,2,10,2.350551432,9,570,527,Webern,Modern,Modern,5,1,1,m,Webern,Austrian,Austrian,g,Expressionist,magenta,deepskyblue
+218, Bax,1883,1918,1953,British,4,10,1.656503812,3,113,30,Bax,Modern,Modern,5,1,1,m,Bax,British,British,hotpink,Late Romantic,deepskyblue,deepskyblue
+221, Griffes,1884,1902,1920,American,2,10,1.649041982,6,273,201,Griffes,Modern,Modern,5,1,1,m,Griffes,American,American,r,Impressionist,blue,deepskyblue
+355, Barrios,1885,1915,1944,Paraguayan,0,10,1.409647725,3,111,28,Barrios,Modern,Modern,5,1,1,m,Barrios,Paraguayan,South_American,gold,Nationalist,gray,green
+72, Berg,1885,1910,1935,Austrian,2,10,2.381895808,10,118,35,Berg,Modern,Modern,5,1,1,m,Berg,Austrian,Austrian,g,Expressionist,magenta,deepskyblue
+430, Butterworth,1885,1901,1916,British,0,10,1.32283421,3,156,75,Butterworth,Modern,Modern,5,1,1,m,Butterworth,British,British,hotpink,Nationalist,gray,deepskyblue
+433, Riegger,1885,1923,1961,American,0,10,1.319786194,0,457,402,Riegger,Modern,Modern,5,1,1,m,Riegger,American,American,r,Serial,pink,deepskyblue
+393, Clarke,1886,1933,1979,British,0,10,1.362911433,1,184,104,Clarke,Modern,Modern,5,1,1,m,Clarke,British,British,hotpink,Impressionist,blue,fuchsia
+187, Dupre,1886,1929,1971,French,3,10,1.742526529,1,219,141,Dupré,Modern,Modern,5,1,1,m,Dupre,French,French,b,Neoromantic,springgreen,deepskyblue
+67, Villa-Lobos,1887,1923,1959,Brazilian,5,10,2.438093199,10,562,516,Villa-Lobos,Modern,Modern,5,1,1,m,Villa-Lobos,Brazilian,South_American,gold,Nationalist,gray,green
+442, Toch,1887,1926,1964,Austrian-American,0,10,1.310807779,0,549,502,Toch,Modern,Modern,5,1,1,m,Toch,Austrian,Austrian,g,Expressionist,magenta,deepskyblue
+171, Ibert,1890,1926,1962,French,3,10,1.79467012,6,307,235,Ibert,Modern,Modern,5,1,1,m,Ibert,French,French,b,Neoclassical,forestgreen,deepskyblue
+154, Martin,1890,1932,1974,Swiss,3,10,1.857626797,5,371,310,Martin,Modern,Modern,5,1,1,m,Martin,Swiss,Other_Nationality,teal,Neoclassical,forestgreen,deepskyblue
+93, Martinu,1890,1925,1959,Bohemian,4,10,2.191587417,9,373,312,Martinu,Modern,Modern,5,1,1,m,Martinu,Bohemian,Central_European,darkorange,Neoclassical,forestgreen,deepskyblue
+371, Moreno Torroba,1891,1937,1982,Spanish,0,10,1.389196635,2,395,336,Moreno Torróba,Modern,Modern,5,1,1,m,Moreno Torroba,Spanish,Spanish,y,Nationalist,gray,deepskyblue
+321, Bliss,1891,1933,1975,British,0,10,1.45746844,3,130,47,Bliss,Modern,Modern,5,1,1,m,Bliss,British,British,hotpink,Neoromantic,springgreen,deepskyblue
+28, Prokofiev,1891,1922,1953,Russian,4,10,3.218297949,21,441,386,Prokofiev,Modern,Modern,5,1,1,m,Prokofiev,Russian,Russian,c,Neoclassical,forestgreen,deepskyblue
+446, Tailleferre,1892,1938,1983,French,0,10,1.306894896,1,532,484,Tailleferre,Modern,Modern,5,1,1,m,Tailleferre,French,French,b,Neoclassical,forestgreen,fuchsia
+81, Milhaud,1892,1933,1974,French,5,10,2.292489222,10,387,328,Milhaud,Modern,Modern,5,1,1,m,Milhaud,French,French,b,Neoclassical,forestgreen,deepskyblue
+397, Grofe,1892,1932,1972,American,0,10,1.358341704,1,274,202,Grofé,Modern,Modern,5,1,1,m,Grofe,American,American,r,Light Classical,lightblue,deepskyblue
+118, Honegger,1892,1924,1955,Swiss-French,4,10,2.027400665,7,301,229,Honegger,Modern,Modern,5,1,1,m,Honegger,French,French,b,Neoromantic,springgreen,deepskyblue
+194, Howells,1892,1938,1983,British,3,10,1.721530189,2,303,231,Howells,Modern,Modern,5,1,1,m,Howells,British,British,hotpink,Neoromantic,springgreen,deepskyblue
+248, Mompou,1893,1940,1987,Spanish (Catalan),0,10,1.587401052,0,389,330,Mompou,Modern,Modern,5,1,1,m,Mompou,Spanish ,Spanish,y,Impressionist,blue,deepskyblue
+332, Boulanger,1893,1906,1918,French,0,10,1.441289351,1,143,60,Boulanger,Modern,Modern,5,1,1,m,Boulanger,French,French,b,Impressionist,blue,fuchsia
+466, Moore,1893,1931,1969,American,0,10,1.288006483,2,393,334,Moore,Modern,Modern,5,1,1,m,Moore,American,American,r,Neoromantic,springgreen,deepskyblue
+496, Moeran,1894,1922,1950,British,0,10,1.261605438,1,388,329,Moeran,Modern,Modern,5,1,1,m,Moeran,British,British,hotpink,Nationalist,gray,deepskyblue
+219, Piston,1894,1935,1976,American,2,10,1.654001537,5,435,379,Piston,Modern,Modern,5,1,1,m,Piston,American,American,r,Neoclassical,forestgreen,deepskyblue
+327, Schulhoff,1894,1918,1942,Bohemian,0,10,1.448554037,3,491,441,Schulhoff,Modern,Modern,5,1,1,m,Schulhoff,Bohemian,Central_European,darkorange,Neoclassical,forestgreen,deepskyblue
+239, Warlock,1894,1912,1930,British,0,10,1.606920233,4,568,525,Warlock,Modern,Modern,5,1,1,m,Warlock,British,British,hotpink,Nationalist,gray,deepskyblue
+44, Hindemith,1895,1929,1963,German,4,10,2.79092001,15,296,224,Hindemith,Modern,Modern,5,1,1,m,Hindemith,German,German,yellowgreen,Neoclassical,forestgreen,deepskyblue
+357, Sowerby,1895,1932,1968,American,0,10,1.407025118,0,510,461,Sowerby,Modern,Modern,5,1,1,m,Sowerby,American,American,r,Neoromantic,springgreen,deepskyblue
+233, Still,1895,1937,1978,American,0,10,1.620481383,2,517,469,Still,Modern,Modern,5,1,1,m,Still,American,American,r,Neoromantic,springgreen,gold
+206, Castelnuovo-Tedesco,1895,1932,1968,Italian-American,4,10,1.687765953,3,171,89,Castelnuovo-Tedesco,Modern,Modern,5,1,1,m,Castelnuovo-Tedesco,Italian,Italian,m,Neoromantic,springgreen,deepskyblue
+103, Orff,1895,1939,1982,German,2,10,2.119679666,1,413,355,Orff,Modern,Modern,5,1,1,m,Orff,German,German,yellowgreen,Neoclassical,forestgreen,deepskyblue
+386, Gerhard,1896,1933,1970,Spanish (Catalan)-British,0,10,1.371058834,0,250,176,Gerhard,Modern,Modern,5,1,1,m,Gerhard,Spanish ,Spanish,y,Expressionist,magenta,deepskyblue
+249, Sessions,1896,1941,1985,American,0,10,1.585290144,3,500,451,Sessions,Modern,Modern,5,1,1,m,Sessions,American,American,r,Serial,pink,deepskyblue
+222, Hanson,1896,1939,1981,American,3,10,1.64658439,2,282,210,Hanson,Modern,Modern,5,1,1,m,Hanson,American,American,r,Neoromantic,springgreen,deepskyblue
+179, Thomson,1896,1943,1989,American,4,10,1.7678299,6,547,500,Thomson,Modern,Modern,5,1,1,m,Thomson,American,American,r,Neoclassical,forestgreen,deepskyblue
+143, Cowell,1897,1931,1965,American,5,10,1.903461071,2,194,115,Cowell,Modern,Modern,5,1,1,m,Cowell,American,American,r,Experimentalist,sandybrown,deepskyblue
+414, Tansman,1897,1942,1986,Polish-French,0,10,1.339580725,0,537,489,Tansman,Modern,Modern,5,1,1,m,Tansman,French,French,b,Neoclassical,forestgreen,deepskyblue
+149, Korngold,1897,1927,1957,Austrian-American,3,10,1.877908168,3,327,260,Korngold,Modern,Modern,5,1,1,m,Korngold,Austrian,Austrian,g,Late Romantic,deepskyblue,deepskyblue
+427, Lara,1897,1934,1970,Mexican,0,10,1.32591058,1,339,276,Lara,Modern,Modern,5,1,1,m,Lara,Mexican,South_American,gold,Nationalist,gray,green
+30, Gershwin,1898,1918,1937,American,3,10,3.149802625,8,251,177,Gershwin,Modern,Modern,5,1,1,m,Gershwin,American,American,r,Vernacularist,blueviolet,deepskyblue
+243, Eisler,1898,1930,1962,German-Austrian,0,10,1.59812706,1,224,147,Eisler,Modern,Modern,5,1,1,m,Eisler,German,German,yellowgreen,Serial,pink,deepskyblue
+271, Harris,1898,1939,1979,American,0,10,1.541508005,2,284,212,Harris,Modern,Modern,5,1,1,m,Harris,American,American,r,Nationalist,gray,deepskyblue
+458, Auric,1899,1941,1983,French,0,10,1.295430315,0,98,19,Auric,Modern,Modern,5,1,1,m,Auric,French,French,b,Neoclassical,forestgreen,deepskyblue
+316, Revueltas,1899,1920,1940,Mexican,0,10,1.465067474,1,455,400,Revueltas,Modern,Modern,5,1,1,m,Revueltas,Mexican,South_American,gold,Nationalist,gray,green
+406," Tcherepnin, A",1899,1938,1977,Russian-French-American,0,10,1.348279544,0,543,495,"Tcherepnin, A",Modern,Modern,5,1,1,m,"Tcherepnin,",Russian,Russian,c,Neoclassical,forestgreen,deepskyblue
+225, Chavez,1899,1939,1978,Mexican,0,10,1.639298523,2,179,98,Chávez,Modern,Modern,5,1,1,m,Chavez,Mexican,South_American,gold,Neoclassical,forestgreen,green
+55, Poulenc,1899,1931,1963,French,4,10,2.598414203,15,439,383,Poulenc,Modern,Modern,5,1,1,m,Poulenc,French,French,b,Neoclassical,forestgreen,deepskyblue
+336, Thompson,1899,1942,1984,American,0,10,1.435581214,0,546,499,Thompson,Modern,Modern,5,1,1,m,Thompson,American,American,r,Neoromantic,springgreen,deepskyblue
+186, Krenek,1900,1946,1991,Austrian-American,4,10,1.745610653,1,331,264,Krenek,Modern,Modern,5,1,1,blue,Krenek,Austrian,Austrian,g,Expressionist,magenta,deepskyblue
+444, Luening,1900,1948,1996,American-German,0,10,1.308845489,0,359,297,Luening,Modern,Modern,5,1,1,blue,Luening,American,American,r,Eclectic,gold,deepskyblue
+31, Copland,1900,1945,1990,American,3,10,3.117659539,18,189,110,Copland,Modern,Modern,5,1,1,blue,Copland,American,American,r,Neoclassical,forestgreen,deepskyblue
+73, Weill,1900,1925,1950,German-American,3,10,2.371262203,7,572,530,Weill,Modern,Modern,5,1,1,blue,Weill,German,German,yellowgreen,Neoclassical,forestgreen,deepskyblue
+404, Partch,1901,1938,1974,American,0,10,1.350489843,0,421,364,Partch,Modern,Modern,5,1,1,blue,Partch,American,American,r,Experimentalist,sandybrown,deepskyblue
+107, Rodrigo,1901,1950,1999,Spanish,3,10,2.093427062,5,462,408,Rodrigo,Modern,Modern,5,1,1,blue,Rodrigo,Spanish,Spanish,y,Nationalist,gray,deepskyblue
+198, Finzi,1901,1929,1956,British,2,10,1.709975947,6,235,160,Finzi,Modern,Modern,5,1,1,blue,Finzi,British,British,hotpink,Nationalist,gray,deepskyblue
+363, Rubbra,1901,1944,1986,British,0,10,1.399272756,1,467,414,Rubbra,Modern,Modern,5,1,1,blue,Rubbra,British,British,hotpink,Nationalist,gray,deepskyblue
+319, Crawford,1901,1927,1953,American,0,10,1.460489108,1,195,116,Crawford,Modern,Modern,5,1,1,blue,Crawford,American,American,r,Experimentalist,sandybrown,fuchsia
+305, Wolpe,1902,1937,1972,German-American,0,10,1.48236064,0,580,539,Wolpe,Modern,Modern,5,1,1,blue,Wolpe,German,German,yellowgreen,Expressionist,magenta,deepskyblue
+209, Durufle,1902,1944,1986,French,1,10,1.67972885,2,220,143,Duruflé,Modern,Modern,5,1,1,blue,Durufle,French,French,b,Neoromantic,springgreen,deepskyblue
+85, Walton,1902,1943,1983,British,3,10,2.256802647,9,567,524,Walton,Modern,Modern,5,1,1,blue,Walton,British,British,hotpink,Neoromantic,springgreen,deepskyblue
+123, Khachaturian,1903,1941,1978,Armenian,3,10,2,5,323,256,Khachaturian,Modern,Modern,5,1,1,blue,Khachaturian,Russian,Russian,c,Neoromantic,springgreen,deepskyblue
+445, Blacher,1903,1939,1975,German,0,10,1.307868738,1,129,46,Blacher,Modern,Modern,5,1,1,blue,Blacher,German,German,yellowgreen,Eclectic,gold,deepskyblue
+354, Berkeley,1903,1946,1989,British,0,10,1.410966385,1,120,37,Berkeley,Modern,Modern,5,1,1,blue,Berkeley,British,British,hotpink,Neoclassical,forestgreen,deepskyblue
+453, Skalkottas,1904,1927,1949,Greek,0,10,1.300158205,1,506,457,Skalkottas,Modern,Modern,5,1,1,blue,Skalkottas,Greek,Other_Nationality,teal,Serial,pink,deepskyblue
+472, Petrassi,1904,1954,2003,Italian,0,10,1.282548763,1,427,372,Petrassi,Modern,Modern,5,1,1,blue,Petrassi,Italian,Italian,m,Serial,pink,deepskyblue
+237, Dallapiccola,1904,1940,1975,Italian,0,10,1.611390132,1,200,121,Dallapiccola,Modern,Modern,5,1,1,blue,Dallapiccola,Italian,Italian,m,Serial,pink,deepskyblue
+227, Kabalevsky,1904,1946,1987,Russian,0,10,1.634512223,5,320,252,Kabalevsky,Modern,Modern,5,1,1,blue,Kabalevsky,Russian,Russian,c,Neoromantic,springgreen,deepskyblue
+491, Alwyn,1905,1945,1985,British,0,10,1.265856163,0,89,10,Alwyn,Modern,Modern,5,1,1,blue,Alwyn,British,British,hotpink,Neoromantic,springgreen,deepskyblue
+475," Hartmann, KA",1905,1934,1963,German,0,10,1.279854325,2,287,214,"Hartmann, KA",Modern,Modern,5,1,1,blue,"Hartmann, KA",German,German,yellowgreen,Expressionist,magenta,deepskyblue
+490, Tubin,1905,1944,1982,Estonian,0,10,1.266713208,2,554,507,Tubin,Modern,Modern,5,1,1,blue,Tubin,Estonian,North_European,deepskyblue,Neoromantic,springgreen,deepskyblue
+405, Blitzstein,1905,1935,1964,American,0,10,1.349382883,1,131,48,Blitzstein,Modern,Modern,5,1,1,blue,Blitzstein,American,American,r,Vernacularist,blueviolet,deepskyblue
+401, Scelsi,1905,1947,1988,Italian,0,10,1.353832653,0,480,429,Scelsi,Modern,Modern,5,1,1,blue,Scelsi,Italian,Italian,m,Avant-garde,saddlebrown,deepskyblue
+461, Lambert,1905,1928,1951,British,0,10,1.292626345,1,337,273,Lambert,Modern,Modern,5,1,1,blue,Lambert,British,British,hotpink,Neoclassical,forestgreen,deepskyblue
+262, Jolivet,1905,1940,1974,French,0,10,1.558829769,2,315,247,Jolivet,Modern,Modern,5,1,1,blue,Jolivet,French,French,b,Mystical,yellow,deepskyblue
+162, Tippett,1905,1952,1998,British,3,10,1.82691658,5,548,501,Tippett,Modern,Modern,5,1,1,blue,Tippett,British,British,hotpink,Neoclassical,forestgreen,deepskyblue
+477, Finney,1906,1952,1997,American,0,10,1.278070553,0,234,159,Finney,Modern,Modern,5,1,1,blue,Finney,American,American,r,Serial,pink,deepskyblue
+340, Creston,1906,1946,1985,American,0,10,1.429962443,0,196,117,Creston,Modern,Modern,5,1,1,blue,Creston,American,American,r,Neoromantic,springgreen,deepskyblue
+27, Shostakovich,1906,1941,1975,Russian,4,10,3.254872647,19,503,454,Shostakovich,Modern,Modern,5,1,1,blue,Shostakovich,Russian,Russian,c,Neoromantic,springgreen,deepskyblue
+424, Badings,1907,1947,1987,Dutch,0,10,1.329015768,0,108,25,Badings,Modern,Modern,5,1,1,blue,Badings,Dutch,Other_Nationality,teal,Neoclassical,forestgreen,deepskyblue
+375, Guarnieri,1907,1950,1993,Brazilian,0,10,1.384265993,2,275,203,Guarnieri,Modern,Modern,5,1,1,blue,Guarnieri,Brazilian,South_American,gold,Nationalist,gray,green
+338, Langlais,1907,1949,1991,French,0,10,1.432760812,2,338,274,Langlais,Modern,Modern,5,1,1,blue,Langlais,French,French,b,Mystical,yellow,deepskyblue
+110, Carter,1908,1960,2012,American,3,10,2.074566333,8,168,86,Carter,Modern,Modern,5,1,1,blue,Carter,American,American,r,Expressionist,magenta,deepskyblue
+469, Larsson,1908,1947,1986,Swedish,0,10,1.285266035,1,341,278,Larsson,Modern,Modern,5,1,1,blue,Larsson,Swedish,North_European,deepskyblue,Eclectic,gold,deepskyblue
+63, Messiaen,1908,1950,1992,French,3,10,2.487113173,11,383,324,Messiaen,Modern,Modern,5,1,1,blue,Messiaen,French,French,b,Mystical,yellow,deepskyblue
+432, Anderson,1908,1942,1975,American,0,10,1.320799077,4,91,12,Anderson,Modern,Modern,5,1,1,blue,Anderson,American,American,r,Light Classical,lightblue,deepskyblue
+379, Holmboe,1909,1953,1996,Danish,0,10,1.379404615,0,299,227,Holmboe,Modern,Modern,5,1,1,blue,Holmboe,Danish,North_European,deepskyblue,Neoclassical,forestgreen,deepskyblue
+54, Barber,1910,1946,1981,American,3,10,2.613789793,16,110,27,Barber,Modern,Modern,5,1,1,blue,Barber,American,American,r,Neoromantic,springgreen,deepskyblue
+201, Schuman,1910,1951,1992,American,3,10,1.701510581,3,493,443,Schuman,Modern,Modern,5,1,1,blue,Schuman,American,American,r,Neoromantic,springgreen,deepskyblue
+465, Bowles,1910,1955,1999,American-Moroccan,0,10,1.288925175,0,145,62,Bowles,Modern,Modern,5,1,1,blue,Bowles,American,American,r,Eclectic,gold,deepskyblue
+185, Menotti,1911,1959,2007,Italian-American,3,10,1.748716728,3,381,321,Menotti,Modern,Modern,5,1,1,blue,Menotti,American,American,r,Neoromantic,springgreen,deepskyblue
+308, Alain,1911,1926,1940,French,0,10,1.477563322,2,83,4,Alain,Modern,Modern,5,1,1,blue,Alain,French,French,b,Mystical,yellow,deepskyblue
+146, Hovhaness,1911,1956,2000,American,5,10,1.890511956,5,302,230,Hovhaness,Modern,Modern,5,1,1,blue,Hovhaness,American,American,r,Neoromantic,springgreen,deepskyblue
+213, Francaix,1912,1955,1997,French,4,10,1.66924665,5,239,164,Françaix,Modern,Modern,5,1,1,blue,Francaix,French,French,b,Neoclassical,forestgreen,deepskyblue
+470, Nancarrow,1912,1955,1997,American-Mexican,0,10,1.28435772,1,402,344,Nancarrow,Modern,Modern,5,1,1,blue,Nancarrow,American,American,r,Experimentalist,sandybrown,deepskyblue
+59, Cage,1912,1952,1992,American,3,10,2.54032952,6,162,80,Cage,Modern,Modern,5,1,1,blue,Cage,American,American,r,Avant-garde,saddlebrown,deepskyblue
+376, Montsalvatge,1912,1957,2002,Catalan,0,10,1.383044222,1,392,333,Montsalvatge,Modern,Modern,5,1,1,blue,Montsalvatge,Spanish,Spanish,y,Eclectic,gold,deepskyblue
+26, Britten,1913,1945,1976,British,3,10,3.29316878,18,149,66,Britten,Modern,Modern,5,1,1,blue,Britten,British,British,hotpink,Neoclassical,forestgreen,deepskyblue
+125, Lutoslawski,1913,1954,1994,Polish,2,10,1.989445714,7,361,299,Lutoslawski,Modern,Modern,5,1,1,blue,Lutoslawski,Polish,Central_European,darkorange,Avant-garde,saddlebrown,deepskyblue
+260, Gould,1913,1955,1996,American,0,10,1.562786207,3,266,193,Gould,Modern,Modern,5,1,1,blue,Gould,American,American,r,Vernacularist,blueviolet,deepskyblue
+232, Dello Joio,1913,1961,2008,American,0,10,1.62278648,0,208,130,Dello Joio,Modern,Modern,5,1,1,blue,Dello Joio,American,American,r,Neoromantic,springgreen,deepskyblue
+456," Fine, I",1914,1938,1962,American,0,10,1.297313211,0,233,158,"Fine, I",Modern,Modern,5,1,1,blue,"Fine, I",American,American,r,Neoclassical,forestgreen,deepskyblue
+318, Diamond,1915,1960,2005,American,0,10,1.462008869,0,209,131,Diamond,Modern,Modern,5,1,1,blue,Diamond,American,American,r,Neoromantic,springgreen,deepskyblue
+381, Perle,1915,1962,2009,American,0,10,1.376999371,0,424,369,Perle,Modern,Modern,5,1,1,blue,Perle,American,American,r,Serial,pink,deepskyblue
+211, Persichetti,1915,1951,1987,American,3,10,1.674454942,0,426,371,Persichetti,Modern,Modern,5,1,1,blue,Persichetti,American,American,r,Neoclassical,forestgreen,deepskyblue
+120, Ginastera,1916,1950,1983,Argentinian,3,10,2.016260876,8,254,181,Ginastera,Modern,Modern,5,1,1,blue,Ginastera,Argentinian,South_American,gold,Nationalist,gray,green
+274, Dutilleux,1916,1965,2013,French,0,10,1.535902472,3,222,145,Dutilleux,Modern,Modern,5,1,1,blue,Dutilleux,French,French,b,Neoromantic,springgreen,deepskyblue
+247, Babbitt,1916,1964,2011,American,0,10,1.589523248,0,99,20,Babbitt,Modern,Modern,5,1,1,blue,Babbitt,American,American,r,Serial,pink,deepskyblue
+499, Lauro,1917,1952,1986,Venezuelan,0,10,1.259082221,2,344,280,Lauro,Modern,Modern,5,1,1,blue,Lauro,Venezuelan,South_American,gold,Nationalist,gray,green
+202, Harrison,1917,1960,2003,American,4,10,1.698725779,2,285,213,Harrison,Modern,Modern,5,1,1,blue,Harrison,American,American,r,Experimentalist,sandybrown,deepskyblue
+50, Bernstein,1918,1954,1990,American,3,10,2.679161449,6,122,39,Bernstein,Modern,Modern,5,1,1,blue,Bernstein,American,American,r,Vernacularist,blueviolet,deepskyblue
+282, Rochberg,1918,1962,2005,American,0,10,1.521343278,0,461,406,Rochberg,Modern,Modern,5,1,1,blue,Rochberg,American,American,r,Serial,pink,deepskyblue
+349, Maderna,1920,1947,1973,Italian-German,0,10,1.417634568,1,365,304,Maderna,Modern,Modern,5,1,1,blue,Maderna,Italian,Italian,m,Avant-garde,saddlebrown,deepskyblue
+275, Husa,1921,1969,2016,Bohemian-American,0,10,1.534051985,3,306,234,Husa,Modern,Modern,5,1,1,blue,Husa,Bohemian,Central_European,darkorange,Expressionist,magenta,deepskyblue
+98, Piazzolla,1921,1957,1992,Argentinian,4,10,2.15443469,6,431,375,Piazzolla,Modern,Modern,5,1,1,blue,Piazzolla,Argentinian,South_American,gold,Vernacularist,blueviolet,green
+155, Arnold,1921,1964,2006,British,4,10,1.853674387,5,96,17,Arnold,Modern,Modern,5,1,1,blue,Arnold,British,British,hotpink,Neoromantic,springgreen,deepskyblue
+498, Kokkonen,1921,1959,1996,Finnish,0,10,1.25992105,1,326,259,Kokkonen,Modern,Modern,5,1,1,blue,Kokkonen,Finnish,North_European,deepskyblue,Neoromantic,springgreen,deepskyblue
+483, Walker,1922,1961,2020,American,0,10,1.272778275,0,566,523,Walker,Modern,Modern,5,1,1,blue,Walker,American,American,r,Serial,pink,gold
+257, Foss,1922,1966,2009,German-American,0,10,1.568796982,0,238,163,Foss,Modern,Modern,5,1,1,blue,Foss,American,American,r,Neoclassical,forestgreen,deepskyblue
+160, Xenakis,1922,1962,2001,Greek-French,3,10,1.834404027,3,582,541,Xenakis,Modern,Modern,5,1,1,blue,Xenakis,French,French,b,Avant-garde,saddlebrown,deepskyblue
+95, Ligeti,1923,1965,2006,Hungarian-Austrian,2,10,2.176420236,8,351,289,Ligeti,Modern,Modern,5,1,1,blue,Ligeti,Hungarian,Central_European,darkorange,Avant-garde,saddlebrown,deepskyblue
+482, Kraft,1923,1962,2020,American,0,10,1.273654241,0,328,261,Kraft,Modern,Modern,5,1,1,blue,Kraft,American,American,r,Expressionist,magenta,deepskyblue
+304, Pinkham,1923,1965,2006,American,0,10,1.483973656,0,434,378,Pinkham,Modern,Modern,5,1,1,blue,Pinkham,American,American,r,Neoclassical,forestgreen,deepskyblue
+132, Rorem,1923,1962,2020,American,4,10,1.954182263,2,464,410,Rorem,Modern,Modern,5,1,1,blue,Rorem,American,American,r,Neoromantic,springgreen,deepskyblue
+293, Nono,1924,1957,1990,Italian,0,10,1.502193902,0,405,347,Nono,Modern,Modern,5,1,1,blue,Nono,Italian,Italian,m,Avant-garde,saddlebrown,deepskyblue
+113, Berio,1925,1964,2003,Italian,3,10,2.056367445,5,119,36,Berio,Modern,Modern,5,1,1,blue,Berio,Italian,Italian,m,Avant-garde,saddlebrown,deepskyblue
+216, Schuller,1925,1970,2015,American,4,10,1.66155416,0,492,442,Schuller,Modern,Modern,5,1,1,blue,Schuller,American,American,r,Serial,pink,deepskyblue
+124, Boulez,1925,1971,2016,French,1,10,1.994694935,5,144,61,Boulez,Modern,Modern,5,1,1,blue,Boulez,French,French,b,Avant-garde,saddlebrown,deepskyblue
+151, Feldman,1926,1957,1987,American,3,10,1.869689646,1,230,154,Feldman,Modern,Modern,5,1,1,blue,Feldman,American,American,r,Avant-garde,saddlebrown,deepskyblue
+341, Kurtag,1926,1965,2020,Romanian-Hungarian,0,10,1.428571429,1,334,269,Kurtág,Modern,Modern,5,1,1,blue,Kurtag,Hungarian,Central_European,darkorange,Experimentalist,sandybrown,deepskyblue
+136, Henze,1926,1969,2012,German-Italian,4,10,1.935115855,4,293,221,Henze,Modern,Modern,5,1,1,blue,Henze,German,German,yellowgreen,Expressionist,magenta,deepskyblue
+296, Argento,1927,1966,2020,American,0,10,1.497135972,0,94,15,Argento,Modern,Modern,5,1,1,blue,Argento,American,American,r,Neoromantic,springgreen,deepskyblue
+268, Rautavaara,1928,1972,2016,Finnish,0,10,1.547196278,1,448,393,Rautavaara,Modern,Modern,5,1,1,blue,Rautavaara,Finnish,North_European,deepskyblue,Neoromantic,springgreen,deepskyblue
+368, Musgrave,1928,1967,2020,Scottish-American,0,10,1.392941119,0,400,342,Musgrave,Modern,Modern,5,1,1,blue,Musgrave,American,American,r,Serial,pink,fuchsia
+106, Stockhausen,1928,1968,2007,German,3,10,2.099868416,5,518,470,Stockhausen,Modern,Modern,5,1,1,blue,Stockhausen,German,German,yellowgreen,Avant-garde,saddlebrown,deepskyblue
+485, Druckman,1928,1962,1996,American,0,10,1.271033546,0,214,136,Druckman,Modern,Modern,5,1,1,blue,Druckman,American,American,r,Serial,pink,deepskyblue
+312, Adler,1928,1967,2020,German-American,0,10,1.471262336,0,82,3,Adler,Modern,Modern,5,1,1,blue,Adler,American,American,r,Eclectic,gold,deepskyblue
+471, Leighton,1929,1959,1988,British,0,10,1.283451967,0,349,286,Leighton,Modern,Modern,5,1,1,blue,Leighton,British,British,hotpink,Neoclassical,forestgreen,deepskyblue
+273, Sculthorpe,1929,1972,2014,Australian,0,10,1.53776192,1,498,448,Sculthorpe,Modern,Modern,5,1,1,blue,Sculthorpe,Australian,Other_Nationality,teal,Eclectic,gold,deepskyblue
+163, Crumb,1929,1968,2020,American,2,10,1.823218359,5,197,118,Crumb,Modern,Modern,5,1,1,blue,Crumb,American,American,r,Eclectic,gold,deepskyblue
+478, Amram,1930,1969,2020,American,0,10,1.277182387,0,90,11,Amram,Modern,Modern,5,1,1,red,Amram,American,American,r,Eclectic,gold,deepskyblue
+126, Takemitsu,1930,1963,1996,Japanese,3,10,1.984251315,4,533,485,Takemitsu,Modern,Modern,5,1,1,red,Takemitsu,Japanese,Other_Nationality,teal,Eclectic,gold,deepskyblue
+259, Gubaidulina,1931,1970,2020,Russian,0,10,1.564779559,2,276,204,Gubaidulina,Modern,Modern,5,1,1,red,Gubaidulina,Russian,Russian,c,Experimentalist,sandybrown,fuchsia
+322, Kagel,1931,1970,2008,Argentinian,0,10,1.455967441,0,321,253,Kagel,Modern,Modern,5,1,1,red,Kagel,Argentinian,South_American,gold,Avant-garde,saddlebrown,deepskyblue
+325, Norgard,1932,1971,2020,Danish,0,10,1.451501255,0,406,348,Nørgård,Modern,Modern,5,1,1,red,Norgard,Danish,North_European,deepskyblue,Neoromantic,springgreen,deepskyblue
+438, Oliveros,1932,1974,2016,American,0,10,1.314767947,0,412,354,Oliveros,Modern,Modern,5,1,1,red,Oliveros,American,American,r,Experimentalist,sandybrown,fuchsia
+285, Shchedrin,1932,1971,2020,Russian,0,10,1.516023853,1,501,452,Shchedrin,Modern,Modern,5,1,1,red,Shchedrin,Russian,Russian,c,Neoromantic,springgreen,deepskyblue
+147, Penderecki,1933,1972,2020,Polish,2,10,1.886273125,6,422,367,Penderecki,Modern,Modern,5,1,1,red,Penderecki,Polish,Central_European,darkorange,Avant-garde,saddlebrown,deepskyblue
+287, Gorecki,1933,1972,2010,Polish,0,10,1.512518583,3,264,191,Górecki,Modern,Modern,5,1,1,red,Gorecki,Polish,Central_European,darkorange,Avant-garde,saddlebrown,deepskyblue
+364, Schafer,1933,1972,2020,Canadian,0,10,1.397997211,0,481,430,Schafer,Modern,Modern,5,1,1,red,Schafer,Canadian,Other_Nationality,teal,Experimentalist,sandybrown,deepskyblue
+481, Wolff,1934,1973,2020,French-American,0,10,1.274532624,0,579,537,Wolff,Modern,Modern,5,1,1,red,Wolff,American,American,r,Avant-garde,saddlebrown,deepskyblue
+463, Davidovsky,1934,1973,2020,Argentinian-American,0,10,1.290770454,1,203,124,Davidovsky,Modern,Modern,5,1,1,red,Davidovsky,American,American,r,Serial,pink,deepskyblue
+244, Birtwistle,1934,1973,2020,British,0,10,1.595958635,0,127,44,Birtwistle,Modern,Modern,5,1,1,red,Birtwistle,British,British,hotpink,Serial,pink,deepskyblue
+144, Schnittke,1934,1966,1998,Russian,3,10,1.89910531,9,487,437,Schnittke,Modern,Modern,5,1,1,red,Schnittke,Russian,Russian,c,Eclectic,gold,deepskyblue
+178, Davies,1934,1975,2016,British,4,10,1.771097615,5,204,125,Davies,Modern,Modern,5,1,1,red,Davies,British,British,hotpink,Serial,pink,deepskyblue
+387, Riley,1935,1974,2020,American,0,10,1.369882969,2,459,404,Riley,Modern,Modern,5,1,1,red,Riley,American,American,r,Minimalist,cyan,deepskyblue
+117, Part,1935,1974,2020,Estonian,3,10,2.033063825,7,420,363,Pärt,Modern,Modern,5,1,1,red,Part,Estonian,North_European,deepskyblue,Minimalist,cyan,deepskyblue
+301, Schickele,1935,1974,2020,American,0,10,1.488855183,0,484,434,Schickele,Modern,Modern,5,1,1,red,Schickele,American,American,r,Vernacularist,blueviolet,deepskyblue
+420, Sallinen,1935,1974,2020,Finnish,0,10,1.333201672,1,473,422,Sallinen,Modern,Modern,5,1,1,red,Sallinen,Finnish,North_European,deepskyblue,Neoromantic,springgreen,deepskyblue
+253," Bennett, RR",1936,1974,2012,British,0,10,1.576957322,0,117,34,"Bennett, RR",Modern,Modern,5,1,1,red,"Bennett, RR",British,British,hotpink,Serial,pink,deepskyblue
+173, Reich,1936,1975,2020,American,2,10,1.78780707,5,451,396,Reich,Modern,Modern,5,1,1,red,Reich,American,American,r,Minimalist,cyan,deepskyblue
+152, Glass,1937,1976,2020,American,3,10,1.865633908,5,257,184,Glass,Modern,Modern,5,1,1,red,Glass,American,American,r,Minimalist,cyan,deepskyblue
+315, Wuorinen,1938,1977,2020,American,0,10,1.466606412,0,581,540,Wuorinen,Modern,Modern,5,1,1,red,Wuorinen,American,American,r,Serial,pink,deepskyblue
+230, Corigliano,1938,1977,2020,American,0,10,1.627436324,3,191,112,Corigliano,Modern,Modern,5,1,1,red,Corigliano,American,American,r,Neoromantic,springgreen,deepskyblue
+223, Harbison,1938,1977,2020,American,0,10,1.644141383,0,283,211,Harbison,Modern,Modern,5,1,1,red,Harbison,American,American,r,Neoclassical,forestgreen,deepskyblue
+398, Tower,1938,1977,2020,American,0,10,1.357208808,2,553,506,Tower,Modern,Modern,5,1,1,red,Tower,American,American,r,Serial,pink,fuchsia
+183, Bolcom,1938,1977,2020,American,3,10,1.754995837,0,139,56,Bolcom,Modern,Modern,5,1,1,red,Bolcom,American,American,r,Eclectic,gold,deepskyblue
+281, Brouwer,1939,1978,2020,Cuban,0,10,1.523133096,3,150,67,Brouwer,Modern,Modern,5,1,1,red,Brouwer,Cuban,South_American,gold,Eclectic,gold,green
+360, Andriessen,1939,1978,2020,Dutch,0,10,1.403127522,0,92,13,Andriessen,Modern,Modern,5,1,1,red,Andriessen,Dutch,Other_Nationality,teal,Minimalist,cyan,deepskyblue
+455, Holliger,1939,1978,2020,Swiss,0,10,1.298258775,0,298,226,Holliger,Modern,Modern,5,1,1,red,Holliger,Swiss,Other_Nationality,teal,Avant-garde,saddlebrown,deepskyblue
+389, Zwilich,1939,1978,2020,American,0,10,1.367543283,0,585,545,Zwilich,Modern,Modern,5,1,1,red,Zwilich,American,American,r,Serial,pink,fuchsia
+480, Monk,1942,1981,2020,American,0,10,1.275413434,0,390,331,Monk,Modern,Modern,5,1,1,red,Monk,American,American,r,Experimentalist,sandybrown,fuchsia
+311, Nyman,1944,1983,2022,British,0,10,1.47282751,2,408,350,Nyman,Modern,Modern,5,1,1,red,Nyman,British,British,hotpink,Minimalist,cyan,deepskyblue
+200, Tavener,1944,1979,2013,British,3,10,1.704313733,3,540,492,Tavener,Modern,Modern,5,1,1,red,Tavener,British,British,hotpink,Minimalist,cyan,deepskyblue
+181, Rutter,1945,1984,2023,British,3,10,1.761366113,4,470,418,Rutter,Modern,Modern,5,1,1,red,Rutter,British,British,hotpink,Vernacularist,blueviolet,deepskyblue
+191, Adams,1947,1986,2025,American,2,10,1.730404212,6,81,2,Adams,Modern,Modern,5,1,1,red,Adams,American,American,r,Minimalist,cyan,deepskyblue
+309, Larsen,1950,1989,2028,American,0,10,1.475977953,0,340,277,Larsen,Modern,Modern,5,1,1,red,Larsen,American,American,r,Vernacularist,blueviolet,fuchsia
+264, Rihm,1952,1991,2030,German,0,10,1.554913095,0,458,403,Rihm,Modern,Modern,5,1,1,red,Rihm,German,German,yellowgreen,Neoromantic,springgreen,deepskyblue
+454, Tan,1957,1996,2035,Chinese-American,0,10,1.299207102,1,535,487,Tan,Modern,Modern,5,1,1,red,Tan,Chinese,Other_Nationality,teal,Experimentalist,sandybrown,deepskyblue
