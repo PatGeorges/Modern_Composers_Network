@@ -1,4 +1,4 @@
-# Modern_Composers_Network_1
+# Modern_Composers_Network
  A network of 20th century composers
  
  In this notebook (Modern_composers.ipynb) and the attached python script (Modern_composers.py) we share the code that permits to generate Figures 5, 7 and 8 of Georges and Seckin (2022) (reference below). 
